@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# evadb
+evadb-venv/*
+evadb_data/*
+
+# devcontainer
+.devcontainer/*
+
+# cache
+functions/__pycache__/*
